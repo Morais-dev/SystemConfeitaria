@@ -102,6 +102,7 @@ public class Orcamento extends javax.swing.JFrame {
 
         jLabel2.setText("Brigadeiros TK");
 
+        jButton1.setBackground(new java.awt.Color(208, 81, 81));
         jButton1.setText("Gerar Orçamento");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
